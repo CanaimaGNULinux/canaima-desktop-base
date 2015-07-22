@@ -1,4 +1,16 @@
-commit 9b9e569ec26ddcab8ead29364e623800528cb554 (HEAD, origin/master, origin/HEAD, master)
+commit 98abd0c21d051c673a6d00a5ce30d53c06660ea3 (HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Wed Jul 22 12:00:54 2015 -0430
+
+    * se elimina pulseaudio porque no corresponde a este paquete
+
+commit cd609e02b57a1bc8957f3c74390776f4a33e42dc (origin/master, origin/HEAD)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Wed Jul 22 11:49:24 2015 -0430
+
+    * changelog
+
+commit 9b9e569ec26ddcab8ead29364e623800528cb554
 Author: jose perez <sinfallas@gmail.com>
 Date:   Wed Jul 22 11:48:14 2015 -0430
 
