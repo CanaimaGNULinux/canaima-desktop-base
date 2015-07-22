@@ -1,4 +1,16 @@
-commit c05b07cf23ff673a3581fab4885575114c58296f (HEAD, master)
+commit b89db7582d2a9c0f841d77f41cca065e3d9f96b9 (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Wed Jul 22 14:06:48 2015 -0430
+
+    * se agregan los paquetes gigolo y smbclient
+
+commit af4bc871b8b5bb3db1b5fc3b191b8abfccce8a73
+Author: jose perez <sinfallas@gmail.com>
+Date:   Wed Jul 22 12:03:46 2015 -0430
+
+    * changelog
+
+commit c05b07cf23ff673a3581fab4885575114c58296f
 Author: jose perez <sinfallas@gmail.com>
 Date:   Wed Jul 22 12:01:38 2015 -0430
 
@@ -10,7 +22,7 @@ Date:   Wed Jul 22 12:00:54 2015 -0430
 
     * se elimina pulseaudio porque no corresponde a este paquete
 
-commit cd609e02b57a1bc8957f3c74390776f4a33e42dc (origin/master, origin/HEAD)
+commit cd609e02b57a1bc8957f3c74390776f4a33e42dc
 Author: jose perez <sinfallas@gmail.com>
 Date:   Wed Jul 22 11:49:24 2015 -0430
 
