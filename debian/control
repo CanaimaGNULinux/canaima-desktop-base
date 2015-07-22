@@ -1,0 +1,13 @@
+Source: canaima-desktop-base
+Section: x11
+Priority: optional
+Maintainer: Jesus Palencia <sinfallas@gmail.com> | Sasha Veronica Solano Grosjean <sashasolano@gmail.com>
+Build-Depends: debhelper, imagemagick, libmagickcore-extra, blender
+Standards-Version: 3.9.3
+Homepage: http://canaima.softwarelibre.gob.ve/
+
+Package: canaima-desktop-base
+Architecture: all
+Depends: desktop-base, pavucontrol, synaptic, gdebi, pulseaudio, modemmanager, network-manager, fdpowermon, fdpowermon-icons, gksu, x11-session-utils, xdg-utils, xdotool, catfish, menu-xdg, usermode
+Description: Paquetes comunes al escritorio
+ Paquetes comunes a los entornos de escritorio en Canaima
