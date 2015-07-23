@@ -1,4 +1,16 @@
-commit bba176e300455b1c609c02007235903b5802d83b (HEAD, origin/master, origin/HEAD, master)
+commit ddb78b88bb21a18e2af77fbd86e6f93a730f6384 (HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Thu Jul 23 14:59:38 2015 -0430
+
+    * se actualiza la firma md5
+
+commit 105fcc967c035be1251f0346a3b18b4a6b558f9a (origin/master, origin/HEAD)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Thu Jul 23 14:54:55 2015 -0430
+
+    * changelog
+
+commit bba176e300455b1c609c02007235903b5802d83b
 Author: jose perez <sinfallas@gmail.com>
 Date:   Thu Jul 23 14:54:05 2015 -0430
 
