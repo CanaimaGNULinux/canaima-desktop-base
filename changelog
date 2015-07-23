@@ -1,4 +1,16 @@
-commit 10da979d303cddbf3dc018d2b012e1d4d4a9208f (HEAD, origin/master, origin/HEAD, master)
+commit 104fa3c6f73c5c11e69e94884b5fec0447ceaf3e (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Thu Jul 23 17:08:04 2015 -0430
+
+    * se agrega la dependencia canaima-themes
+
+commit 2f6c11ca2991e86a30cbec6fd3e010fa1978e0ed
+Author: jose perez <sinfallas@gmail.com>
+Date:   Thu Jul 23 16:00:03 2015 -0430
+
+    * changelog
+
+commit 10da979d303cddbf3dc018d2b012e1d4d4a9208f
 Author: jose perez <sinfallas@gmail.com>
 Date:   Thu Jul 23 15:59:50 2015 -0430
 
