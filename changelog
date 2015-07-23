@@ -1,4 +1,23 @@
-commit 03a452efa7c08d33236d815ed4877e55ffc9dc50 (HEAD, origin/master, origin/HEAD, master)
+commit bba176e300455b1c609c02007235903b5802d83b (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Thu Jul 23 14:54:05 2015 -0430
+
+    * se cambia la clave a 123456
+
+commit b346a443f6c67cc0a2522ca421fd4b262c3642f4
+Author: jose perez <sinfallas@gmail.com>
+Date:   Thu Jul 23 14:52:18 2015 -0430
+
+    * se agrega lightdm como dependencia
+    * se coloca el script para cambio de paswword
+
+commit c08ab1e50755861746eef91178148e3118397c0a
+Author: jose perez <sinfallas@gmail.com>
+Date:   Thu Jul 23 07:55:20 2015 -0430
+
+    * changelog
+
+commit 03a452efa7c08d33236d815ed4877e55ffc9dc50
 Author: jose perez <sinfallas@gmail.com>
 Date:   Thu Jul 23 07:55:12 2015 -0430
 
