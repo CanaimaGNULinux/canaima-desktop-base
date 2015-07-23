@@ -1,10 +1,22 @@
-commit ddb78b88bb21a18e2af77fbd86e6f93a730f6384 (HEAD, master)
+commit 10da979d303cddbf3dc018d2b012e1d4d4a9208f (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Thu Jul 23 15:59:50 2015 -0430
+
+    * se agrega el paquete de iconos
+
+commit 13a8eb69f309a4b6c91d9db9179745bd6975235b
+Author: jose perez <sinfallas@gmail.com>
+Date:   Thu Jul 23 15:00:41 2015 -0430
+
+    * changelog
+
+commit ddb78b88bb21a18e2af77fbd86e6f93a730f6384
 Author: jose perez <sinfallas@gmail.com>
 Date:   Thu Jul 23 14:59:38 2015 -0430
 
     * se actualiza la firma md5
 
-commit 105fcc967c035be1251f0346a3b18b4a6b558f9a (origin/master, origin/HEAD)
+commit 105fcc967c035be1251f0346a3b18b4a6b558f9a
 Author: jose perez <sinfallas@gmail.com>
 Date:   Thu Jul 23 14:54:55 2015 -0430
 
