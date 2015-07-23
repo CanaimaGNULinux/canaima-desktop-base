@@ -8,6 +8,6 @@ Homepage: http://canaima.softwarelibre.gob.ve/
 
 Package: canaima-desktop-base
 Architecture: all
-Depends: desktop-base, pavucontrol, synaptic, gdebi, modemmanager, network-manager, fdpowermon, fdpowermon-icons, gksu, x11-session-utils, xdg-utils, xdotool, catfish, menu-xdg, usermode, gigolo, smbclient
+Depends: desktop-base, pavucontrol, synaptic, gdebi, modemmanager, network-manager, fdpowermon, fdpowermon-icons, gksu, x11-session-utils, xdotool, catfish, menu-xdg, usermode, gigolo, smbclient
 Description: Paquetes comunes al escritorio
  Paquetes comunes a los entornos de escritorio en Canaima
