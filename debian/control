@@ -2,12 +2,12 @@ Source: canaima-desktop-base
 Section: x11
 Priority: optional
 Maintainer: Jesus Palencia <sinfallas@gmail.com>
-Build-Depends: debhelper (>= 9.20150101), cdbs (>= 0.4.130), imagemagick, libmagickcore-extra, blender
+Build-Depends: debhelper (>= 9.20150101), cdbs (>= 0.4.130), imagemagick (>= 8:6.8.9.9), libmagickcore-6.q16-2-extra (>= 8:6.8.9.9), blender (>= 2.72)
 Standards-Version: 3.9.3
 Homepage: http://canaima.softwarelibre.gob.ve/
 
 Package: canaima-desktop-base
 Architecture: all
-Depends: desktop-base, pavucontrol, synaptic, gdebi, modemmanager, network-manager, fdpowermon, fdpowermon-icons, gksu, x11-session-utils, xdotool, catfish, menu-xdg, usermode, gigolo, smbclient, lightdm, canaima-iconos-theme, canaima-themes
+Depends: desktop-base (>= 8.0.2), pavucontrol (>= 2.0), synaptic (>= 0.81.2), gdebi (>= 0.9.5.5), modemmanager (>= 1.4.0), network-manager (>= 0.9.10.0), fdpowermon (>= 1.13), fdpowermon-icons (>= 1.13), gksu (>= 2.0.2), x11-session-utils (>= 7.7), xdotool (>= 1:3.20), catfish (>= 1.2.2), menu-xdg (>= 0.5), usermode (>= 1.109), gigolo (>= 0.4.2), smbclient (>= 2:4.1.17), lightdm (>= 1.10.3), canaima-iconos-theme (>= 0.1.1), canaima-themes (>= 0.1.1)
 Description: Paquetes comunes al escritorio
  Paquetes comunes a los entornos de escritorio en Canaima
