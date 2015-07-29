@@ -2,7 +2,7 @@ Source: canaima-desktop-base
 Section: x11
 Priority: optional
 Maintainer: Jesus Palencia <sinfallas@gmail.com> | Sasha Veronica Solano Grosjean <sashasolano@gmail.com>
-Build-Depends: debhelper, imagemagick, libmagickcore-extra, blender
+Build-Depends: debhelper (>= 9.20150101), cdbs (>= 0.4.130), imagemagick, libmagickcore-extra, blender
 Standards-Version: 3.9.3
 Homepage: http://canaima.softwarelibre.gob.ve/
 
