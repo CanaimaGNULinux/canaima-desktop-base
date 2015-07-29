@@ -1,18 +1,4 @@
 #!/bin/sh -e
-#
-# ==============================================================================
-# PAQUETE: desktop-base
-# ARCHIVO: postrm
-# DESCRIPCIÓN: Revierte los cambios hechos por el paquete en los scripts del
-#              mantenedor, de forma tal de asegurarse que el sistema quede
-#              como estaba antes de su instalación.
-# COPYRIGHT:
-#  (C) 2010 Sasha Veronica Solano Grosjean <sashasolano@gmail.com>
-# LICENCIA: GPL3
-# ==============================================================================
-#
-# Este programa es software libre. Puede redistribuirlo y/o modificarlo bajo los
-# términos de la Licencia Pública General de GNU (versión 3).
 
 ERROR() {
 	printf "\033[1;31m${1}\033[0m\n"
